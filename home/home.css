@@ -48,20 +48,20 @@ nav ul li:hover{
     text-transform: uppercase;
     color:#d9370a;
 }
-.hero-section{
+.vish-section{
     display: flex;
     align-items: center;
 }
-.hero-left-section{
+.vish-left-section{
     width: 60%;
     padding: 0 8%;
 }
-.hero-left-section h1{
+.vish-left-section h1{
     font-weight: 800px;
     font-size: 25px;
     margin-bottom: 16px;
 }
- .hero-left-section h1 span{
+ .vish-left-section h1 span{
     color: #129b9b;
     font-weight: bolder;
     background-color: #dfdfe0;
@@ -70,24 +70,24 @@ nav ul li:hover{
     font-weight: 900;
     
 }
-.hero-left-section p{
+.vish-left-section p{
     font-weight: 600;
 }
-.hero-left-section p span{
+.vish-left-section p span{
     
     color: #129b9b;
     font-weight: 900;
     font-size: 18px;
 
 }
-.hero-left-section p span.jam{
+.vish-left-section p span.jam{
     
     color: #f54f07;
     font-weight: 900;
     font-size: 18px;
 
 }
-.hero-right-section{
+.vish-right-section{
     display: flex;
     flex-direction: column;
     width: 40%;
@@ -95,18 +95,12 @@ nav ul li:hover{
     justify-content: center;
     gap: 30px;
 }
-.hero-right-section-btn{
-    display: flex;
-    align-items: center;
-    gap: 30px;
-}
-.hero-right-section img{
+.vish-right-section img{
     height: 40vh;
     width: 40vh;
     border-radius: 50%;
-
 }
-.hero-right-section img:hover{
+.vish-right-section img:hover{
    transform:scale(1.2);
    transition-duration: 2s;
 }
