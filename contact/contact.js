@@ -1,4 +1,5 @@
-document.getElementById("submit").onclick(){
-alert("Submitted Successfully");
-alert("Thank you very much");
-}
+document.getElementById("submit").onclick = function() {
+    
+    alert(" Submitted Successfully");
+         alert( " Thank you very much!");
+  };
